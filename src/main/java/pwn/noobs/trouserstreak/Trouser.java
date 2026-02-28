@@ -26,7 +26,7 @@ public class Trouser extends MeteorAddon {
                 Modules.get().add(new AimBot());
                 Modules.get().add(new AirstrikePlus());
                 Modules.get().add(new AnHero());
-                Modules.get().add(new AttributeSwap());
+                // Modules.get().add(new AttributeSwap());
                 Modules.get().add(new AutoCommand());
                 Modules.get().add(new AutoDisplays());
                 Modules.get().add(new AutoDrop());
